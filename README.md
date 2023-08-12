@@ -1,5 +1,6 @@
 # Two-Class Classifier for Field and Road Images using PyTorch
 
+the paper can be found here : https://arxiv.org/abs/2307.06304
 
 ## Overview:
 
